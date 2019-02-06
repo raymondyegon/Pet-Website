@@ -6,3 +6,9 @@ h1 {
   color: blue;
   text-align: center;
 }
+#last {
+  text-align: center;
+}
+img {
+  padding: 1%;
+}
